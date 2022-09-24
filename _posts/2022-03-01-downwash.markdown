@@ -2,7 +2,7 @@
 layout: post
 title:  "Downwash-aware Control Allocation for Over-actuated UAV Platforms"
 date:   2022-03-01 22:21:59 +00:00
-image: ../images/iros2022downwash.jpg
+image: /images/iros2022downwash.jpg
 categories: research
 author: "Y. Su*, C. Chu*, M. Wang, J. Li, Y. Liu, Y. Zhu, and H. Liu"
 authors: "Yao Su*, Chi Chu*, Meng Wang, <strong>Jiarui Li</strong>, Yang Liu, Yixin Zhu, and Hangxin Liu"
