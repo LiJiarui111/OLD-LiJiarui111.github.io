@@ -92,12 +92,19 @@ strong {
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
+  /* font-weight: 700 */
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700
+}
+
+schoolname {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 19px;
+  font-weight: 800
 }
 
 name {
