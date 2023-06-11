@@ -92,7 +92,7 @@ strong {
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
-  /* font-weight: 700 */
+  font-weight: 700
 }
 
 papertitle {
@@ -117,8 +117,9 @@ schoolname {
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: Georgia, serif;
   font-size: 32px;
+  font-weight: 900;
 }
 
 .one {
