@@ -90,8 +90,8 @@ strong {
 }
 
 heading{
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-family: Arial, sans-serif;
+  font-size: 25px;
   font-weight: 700;
   /* padding-bottom: 1px; */
   border-bottom: 5px solid #D8B08C;
@@ -119,8 +119,8 @@ schoolname {
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-family: Arial, sans-serif;
+  font-size: 36px;
   font-weight: 900;
 }
 
