@@ -74,6 +74,17 @@ a:hover {
   text-decoration: none;
 }
 
+newslink {
+  color: #348ABF;
+  text-decoration: none;
+}
+
+newslink:focus,
+newslink:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
 body,
 td,
 th,
@@ -87,6 +98,11 @@ a {
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
+}
+
+newslink {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px
 }
 
 heading{
@@ -109,6 +125,24 @@ catalog {
   /* font-weight: 500; */
   line-height: 1.5em;
   font-style:italic;
+  margin: 1em
+}
+
+news {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  /* font-weight: 500; */
+  line-height: 1.5em;
+  /* font-style:italic; */
+  /* margin: 1em */
+}
+
+newstitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  /* font-weight: 500; */
+  line-height: 1.5em;
+  /* font-style:italic; */
   margin: 1em
 }
 
