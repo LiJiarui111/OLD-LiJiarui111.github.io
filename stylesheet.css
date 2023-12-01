@@ -74,6 +74,12 @@ a:hover {
   text-decoration: none;
 }
 
+newspaper:focus,
+newspaper:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
 newslink {
   color: #348ABF;
   text-decoration: none;
@@ -103,6 +109,12 @@ strong {
 newslink {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px
+}
+
+newspaper {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  color:#C37EDB
 }
 
 heading{
